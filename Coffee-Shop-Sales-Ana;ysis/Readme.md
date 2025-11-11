@@ -80,4 +80,17 @@ GROUP BY Month;
 
 ## 📷 Dashboard Preview
 
+#### 1️⃣ Dashboard Overview
+<img width="1223" height="743" alt="image" src="https://github.com/user-attachments/assets/70057202-1121-46fd-8641-4401cc934fcc" />
+
+#### 2️⃣ Calendar Heatmap
+<img width="470" height="311" alt="image" src="https://github.com/user-attachments/assets/a9bb5f72-befe-49e2-93be-eff1ab6f54f8" />
+
+
+#### 3️⃣ Store Location Performance
+<img width="467" height="307" alt="image" src="https://github.com/user-attachments/assets/1ac2efc2-4e38-43e9-8624-b67c35ee4d1e" />
+
+#### 4️⃣ Top 10 Products
+<img width="393" height="605" alt="image" src="https://github.com/user-attachments/assets/07df3aac-e570-4f67-b1e3-df140803e55c" />
+
 
