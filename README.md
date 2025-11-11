@@ -1,4 +1,4 @@
-# HTML, CSS & JAVASCRIPT Projects
+# Data Analysis Projects
 
 
 | S No.  | Project Name                                                  | Tools Used |Link                                                                              |
